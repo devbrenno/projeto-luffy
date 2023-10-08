@@ -11,7 +11,7 @@
         passo 2 - adicionar a classe "selecionado" no personagem que o usuário selecionou
         passo 3 - verificar se já existe um personagem selecionado, se sim, devemos remover a seleção dele 
 */
-
+/*
 const botoes = document.querySelectorAll(".botao");
 const personagens = document.querySelectorAll(".personagem");
 
@@ -33,4 +33,4 @@ function desselecionarPersonagem() {
 function desselecionarBotao() {
 	const botaoSelecionado = document.querySelector(".botao.selecionado");
 	botaoSelecionado.classList.remove("selecionado");
-}
+} */
